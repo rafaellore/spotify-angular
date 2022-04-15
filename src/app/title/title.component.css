@@ -1,0 +1,17 @@
+h1 {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+span {
+  color: #9c9c9c;
+  font-size: 1rem;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  flex-shrink: 0;
+  align-items: center;
+  margin-top: 32px;
+}
